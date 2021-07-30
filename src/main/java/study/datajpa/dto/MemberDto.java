@@ -22,5 +22,6 @@ public class MemberDto {
 
     }
 
-    //test git-v1 push test
+    //test git-v1 push test commit -> push
+    //test git-v2
 }
