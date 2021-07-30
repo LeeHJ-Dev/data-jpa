@@ -16,9 +16,11 @@ public class MemberDto {
         this.teamName = teamName;
     }
 
-    public MemberDto(Member member){
+    public MemberDto(Member member)     {
         this.id = member.getId();
         this.username = member.getUsername();
 
     }
+
+    //test git-v1 push test
 }
